@@ -1,0 +1,1 @@
+# sum-of-diagonal-elements-in-an-array
